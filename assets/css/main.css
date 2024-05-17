@@ -2533,6 +2533,7 @@ input, select, textarea {
 		background-size: 25em, 25em, auto, cover;
 		color: #fff;
 		cursor: default;
+		height: 70vh;
 		padding: 6em 0;
 		text-align: center;
 	}

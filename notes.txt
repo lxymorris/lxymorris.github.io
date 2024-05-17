@@ -1,0 +1,9 @@
+TO DO:
+
+- [ ] Decide what Pages to include:
+    - [ ] Home
+    - [ ] About
+    - [ ] Gallery
+    - [ ] Contact
+- [ ] Collect images into images folder
+
